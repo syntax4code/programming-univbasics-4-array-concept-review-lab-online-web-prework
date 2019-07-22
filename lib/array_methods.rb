@@ -3,10 +3,9 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  # Add your solution here
-  
+array.max(value_to_find)
 end
 
 def find_min_value(array)
-  # Add your solution here
+array.min(value_to_find)
 end
